@@ -1,0 +1,12 @@
+pipes (filter)
+ :- predefined
+  uppercase
+  lowercase
+  titlecase
+  number
+  currency
+  date
+  percent
+   to use pipe we have (|) symbol
+    eg:
+     {{ name | uppercase}}
